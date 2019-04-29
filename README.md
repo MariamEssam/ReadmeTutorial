@@ -5,9 +5,11 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 ### Team Members
 
-**Moritz Cremer**  *moritz.cremer(At)rwth-aachen.de* (Team Leader)
+* **Moritz Cremer**  *moritz.cremer(At)rwth-aachen.de* (Team Leader)
 
-**Mariam Essam**   *mariamessameg(At)gmail.com*      (Team member) 
+* **Mariam Essam**   *mariamessameg(At)gmail.com*      (Team member) 
+
+---
 
 Please use **one** of the two installation options, either native **or** docker installation.
 
